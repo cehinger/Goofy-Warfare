@@ -1,4 +1,4 @@
-# Goofy-Warfare
+# Goofy Warfare
 Bienvenue dans **"Goofy** **Warfare"**, un jeu de tir compétitif où le chaos règne en maître et où la stratégie côtoie l'absurde. Dans cet univers déjanté, vous affronterez d'autres joueurs dans des combats 3 contre 3 palpitants, où chaque round est une opportunité de déployer des tactiques excentriques et d’utiliser des armes plus ridicules les unes que les autres. Le premier à remporter 10 rounds sera couronné roi du bazar !
 
 **Mécaniques de Jeu :**
